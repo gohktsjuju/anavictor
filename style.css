@@ -17,7 +17,13 @@
     background-size: contain;
     background-repeat: no-repeat;
     }
-    
+    .container_botao{
+      background-color: var(--botao-azul);
+      border-radius: 5px;
+      padding: 1em;
+      color: var(--branco-principal);
+      display: block;
+    }
  .container {
  height: 100vh;
  display: grid;
